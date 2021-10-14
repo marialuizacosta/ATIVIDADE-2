@@ -19,7 +19,7 @@ public void setPreco(float preco){
 public int getQuantidade(){
   return quantidade;
 }
-public void setQantidade( int quantidade){
+public void setQuantidade( int quantidade){
   this.quantidade = quantidade;
 }
  
