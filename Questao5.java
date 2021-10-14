@@ -17,7 +17,7 @@ public class Questao5 {
 
 
         
-        System.out.println("Voce tem " + contato.getQuantidade() + " mensagens n„o lidas com "
+        System.out.println("Voce tem " + contato.getQuantidade() + " mensagens n√£o lidas com "
                 + contato.getNome() + "!");
 
       
@@ -26,7 +26,7 @@ public class Questao5 {
 
      
         
-        System.out.println("Voce tem " + contato.getQuantidade() + " mensagens n„o lidas com "
+        System.out.println("Voce tem " + contato.getQuantidade() + " mensagens n√£o lidas com "
                 + contato.getNome() + "!");
 
     }
