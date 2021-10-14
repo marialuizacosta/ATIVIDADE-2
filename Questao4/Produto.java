@@ -27,7 +27,6 @@ public void setQuantidade( int quantidade){
  public void comprar() {
         if (this.quantidade > 0) {
             this.quantidade = this.quantidade - 1;
-            System.out.println("COMPRADO");
         } else {
             System.out.println("ACABOU");
         }
