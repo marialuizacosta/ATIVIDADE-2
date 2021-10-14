@@ -40,7 +40,7 @@ public class Contato {
     this.recebidas = recebidas;
     }
     public void recebeMensagem(String zapp) {
-      System.out.println("Última mensagem enviada para o contato Parede1:\n Eita bicho ruim!!!!");
+      System.out.println("Ãšltima mensagem enviada para o contato Parede1:\n Eita bicho ruim!!!!");
         setRecebidas(this.getRecebidas() + zapp + "\n");
     }
 
