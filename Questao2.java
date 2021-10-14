@@ -1,4 +1,4 @@
-public class Quest„o2 {
+public class Quest√£o2 {
   public static void main(String [] args)throws Exception {
 
    Post post = new Post("Different eyes see different things", " https://www.friv.com/ ");
